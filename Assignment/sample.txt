@@ -1,1 +1,2 @@
-
+this is a sample text, this will be used in first git-commit learning
+....
